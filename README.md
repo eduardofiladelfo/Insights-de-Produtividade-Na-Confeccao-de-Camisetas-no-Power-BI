@@ -36,7 +36,7 @@ O intuito desse relatório é responder às seguintes perguntas de negócio:
 
 O conjunto de dados deste dataset tem autoria própria e está disponível [aqui](https://github.com/eduardofiladelfo/Insights-de-Produtividade-Na-Confeccao-de-Camisetas-no-Power-BI/tree/27aef06a1a2ac6f0ec28fab970ce6f7d8908fda0/bases).
 
-### 🛠️ Ferramentas: 
+### 🛠️ Ferramentas 
 
 Power BI:  Importação dos arquivos em CSV e visualização dos dashboards.
 Canva: Criação do design visual do indicador, permitindo uma apresentação mais clara dos insights obtidos na análise.
