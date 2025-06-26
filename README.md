@@ -12,8 +12,8 @@ Este KPI foi criado com o intuito de promover insights sobre a produtividade ger
 
 - Detalhamento das peças produzidas por equipe ao longo do período por Work Orders.
 
-https://github.com/user-attachments/assets/99069ff1-b705-41e3-9c95-16a398b79e38
-  
+https://github.com/user-attachments/assets/beb27356-40fb-49b1-bb37-0c176be48128
+
 ### ✅ Perguntas de Negócio
 
 O intuito desse relatório é responder às seguintes perguntas de negócio:
